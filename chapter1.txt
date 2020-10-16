@@ -3,3 +3,8 @@ git init
 git add
 git commit - m "comentario"
 git checkout *arquivo*
+git remote add origin *link*
+git push -u origin master
+git branch *nome*
+git branch //ver os branchs
+git checkout *banch_name*
